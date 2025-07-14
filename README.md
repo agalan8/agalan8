@@ -107,11 +107,11 @@
 If you liked my profile, feel free to ⭐️ my repositories and connect with me!
 
 <a href="https://www.linkedin.com/in/alejandro-gal%C3%A1n-caballero-2b744036b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Galán-blue?style=flat&logo=linkedin" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />
 </a>
 &nbsp;
 <a href="mailto:alejandro.galan.caballero@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"  />
 </a>
 
 ---
